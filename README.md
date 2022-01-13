@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ClaytonMach/Test%20Sentinel/_apis/build/status/antigrammatik.pipelines-java?branchName=master)](https://dev.azure.com/ClaytonMach/Test%20Sentinel/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
